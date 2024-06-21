@@ -1,0 +1,29 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Mocassins Bambi en cuir tressé orange",
+    "description": "Mocassins Bambi légers confectionnés en cuir de chèvre tissé serré. Bord tressé avec surpiqûres en relief. Agrémentés d’une bride classique sur le dessus. Semelle intérieure en cuir et semelle en cuir. Logo Marni en relief sur le talon.",
+    "mpn": "8050268748963",
+    "sku": "8050268748963",
+    "brand": {
+        "@type": "Thing",
+        "name": "Marni"
+    },
+    "image": [
+        "https://www.marni.com/on/demandware.static/-/Sites-marni-master-catalog/default/dwa4b6734f/images/large/MOMS005202_P4583_00R31_F.jpg",
+        "https://www.marni.com/on/demandware.static/-/Sites-marni-master-catalog/default/dw8bbebc73/images/large/MOMS005202_P4583_00R31_E.jpg",
+        "https://www.marni.com/on/demandware.static/-/Sites-marni-master-catalog/default/dw546ca440/images/large/MOMS005202_P4583_00R31_A.jpg",
+        "https://www.marni.com/on/demandware.static/-/Sites-marni-master-catalog/default/dw297c3437/images/large/MOMS005202_P4583_00R31_R.jpg",
+        "https://www.marni.com/on/demandware.static/-/Sites-marni-master-catalog/default/dw2f339bb8/images/large/MOMS005202_P4583_00R31_D.jpg"
+    ],
+    "offers": {
+        "url": {},
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "595.00",
+        "availability": "http://schema.org/OutOfStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "url": {},
+    "productID": "MOMS005202P458300R31"
+}
