@@ -38,3 +38,4 @@ sequelize.sync({ force: true }).then(() => {
 }).catch(error => {
   console.error('Unable to synchronize the database:', error);
 });
+//===============================[Git]===============================\\
