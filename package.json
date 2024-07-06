@@ -4,7 +4,7 @@
   "description": "test",
   "main": "test.js",
   "scripts": {
-    "devStart": "nodemon app1.js"
+    "devStart": "node app1.js"
   },
   "keywords": [],
   "author": "Lantomalala Justin",
